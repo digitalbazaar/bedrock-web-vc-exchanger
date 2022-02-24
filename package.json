@@ -1,6 +1,6 @@
 {
   "name": "bedrock-web-vc-exchanger",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Bedrock Web VC Exchanger",
   "module": "./lib/main.js",
   "scripts": {
