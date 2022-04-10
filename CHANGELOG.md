@@ -1,6 +1,6 @@
 # bedrock-web-vc-exchanger ChangeLog
 
-## 2.0.0 - 2022-04-xx
+## 2.0.0 - 2022-04-10
 
 ### Changed
 - **BREAKING**: Rename package to `@bedrock/web-vc-exchanger`.
