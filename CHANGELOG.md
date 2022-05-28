@@ -1,5 +1,10 @@
 # bedrock-web-vc-exchanger ChangeLog
 
+## 3.1.0 - 2022-05-xx
+
+### Changed
+- Handle writing VCs to inbox when EDV doc does not exist.
+
 ## 3.0.0 - 2022-05-05
 
 ### Changed
