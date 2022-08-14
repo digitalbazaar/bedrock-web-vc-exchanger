@@ -20,7 +20,7 @@
     "jsdoc-to-markdown": "^7.1.1"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=16"
   },
   "files": [
     "lib/*"
