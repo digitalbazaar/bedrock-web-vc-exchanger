@@ -1,6 +1,6 @@
 # bedrock-web-vc-exchanger ChangeLog
 
-## 4.0.0 - 2022-08-xx
+## 4.0.0 - 2022-08-14
 
 ### Changed
 - **BREAKING**: Require node 16+.
