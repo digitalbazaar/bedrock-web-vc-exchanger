@@ -8,9 +8,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@digitalbazaar/edv-client": "^14.0.0",
-    "@digitalbazaar/http-client": "^2.0.1",
-    "@digitalbazaar/webkms-client": "^9.2.1"
+    "@digitalbazaar/edv-client": "^15.0.0",
+    "@digitalbazaar/http-client": "^3.2.0",
+    "@digitalbazaar/webkms-client": "^12.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
@@ -19,7 +19,6 @@
     "jsdoc": "^3.6.4",
     "jsdoc-to-markdown": "^7.1.1"
   },
-  "peerDependencies": {},
   "engines": {
     "node": ">=14"
   },
