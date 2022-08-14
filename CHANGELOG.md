@@ -1,6 +1,6 @@
 # bedrock-web-vc-exchanger ChangeLog
 
-## 4.0.1 - 2022-08-xx
+## 4.0.1 - 2022-08-14
 
 ### Fixed
 - Use `@digitalbazaar/edv-client@15.0.1` to get chacha bug fix.
