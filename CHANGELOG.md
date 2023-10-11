@@ -6,6 +6,7 @@
 - **BREAKING**: Drop support for Node.js < 18.
 - Use `@digitalbazaar/edv-client@16`. This version requires Node.js 18+.
 - Use `@digitalbazaar/http-client@4`. This version requires Node.js 18+.
+- Use `@digitalbazaar/webkms-client@13.0.1`. This version requires Node.js 18+.
 
 ## 4.0.1 - 2022-08-14
 
