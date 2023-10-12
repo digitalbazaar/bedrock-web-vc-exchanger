@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/web-vc-exchanger",
-  "version": "4.0.2-0",
+  "version": "5.0.0",
   "type": "module",
   "description": "Bedrock Web VC Exchanger",
   "module": "./lib/index.js",
