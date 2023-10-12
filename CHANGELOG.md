@@ -1,6 +1,6 @@
 # bedrock-web-vc-exchanger ChangeLog
 
-## 5.0.0 - 2023-10-xx
+## 5.0.0 - 2023-10-12
 
 ### Changed
 - **BREAKING**: Drop support for Node.js < 18.
